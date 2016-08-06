@@ -1,0 +1,17 @@
+{
+  "name": "react-express-full-stack-app",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "ledomone <ledom.git@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ledomone/react-express-full-stack-app",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
